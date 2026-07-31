@@ -1,1 +1,22 @@
+# Normalisation des fins de ligne
 * text=auto eol=lf
+
+# Fichiers binaires à ne jamais diff/convertir
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary
+
+# Fichiers spécifiques à toujours traiter en texte LF
+*.sh text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+
+# Fichiers Windows à toujours traiter en texte CRLF
+*.bat text eol=crlf
+*.vbs text eol=crlf
+*.sln text eol=crlf
+*.ps1 text eol=crlf
+*.cmd text eol=crlf

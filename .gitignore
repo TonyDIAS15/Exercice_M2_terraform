@@ -1,4 +1,4 @@
-# Fichiers d'état et cache Terraform
+# Fichiers d'état et cache Terraform 
 .terraform/
 *.tfstate
 *.tfstate.backup
@@ -8,7 +8,7 @@
 # Fichiers de verrouillage de plan et crash logs
 *.tfplan
 crash.log
-override.tf
+override.tfS
 override.tf.json
 *_override.tf
 *_override.tf.json

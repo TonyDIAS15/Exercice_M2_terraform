@@ -1,5 +1,5 @@
 # =========== REPRODUCTIVITE AND HARDENING ============
-SHELL := /bin/bash
+SHELL := /bin/bash 
 .SHELLFLAGS := -eu -o pipefail -c
 # =========== COLOR ANSI ================
 INFO_COLOR := \033[36;1m

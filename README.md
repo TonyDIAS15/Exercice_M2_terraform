@@ -1,4 +1,7 @@
 # TP Infrastructure as Code
+ 
+
+# Exerice 2.1 dans la branche Ex2.1
 
 ## Prérequis
 - Terraform >= 1.5.0
