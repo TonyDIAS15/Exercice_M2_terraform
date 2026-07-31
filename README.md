@@ -1,5 +1,12 @@
 # TP Infrastructure as Code
+<<<<<<< Updated upstream
 
+=======
+ 
+
+# Exerice 2.1 dans la branche Ex2.1
+ 
+>>>>>>> Stashed changes
 ## Prérequis
 - Terraform >= 1.5.0
 - Make
